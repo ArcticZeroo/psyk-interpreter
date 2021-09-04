@@ -19,6 +19,7 @@ Tests were written by Dr. Rupp at MSU, with a few local fixes for those which we
 
 - The type system and typechecking (fairly basic but it ended up working pretty well)
 - Scalars which automatically resolve to memory or array-indexed memory
+- Reclaiming scalars as they are disposed
 
 ## Strange bits
 
