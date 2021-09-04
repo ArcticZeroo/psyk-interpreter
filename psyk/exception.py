@@ -1,0 +1,2 @@
+class VariableNotDefinedException(Exception):
+    pass
